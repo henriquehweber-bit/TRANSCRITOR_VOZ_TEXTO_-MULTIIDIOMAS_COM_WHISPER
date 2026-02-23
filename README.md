@@ -9,3 +9,6 @@ O fluxo contempla: gravação → salvamento em `.wav` → transcrição automá
 Foram aplicadas boas práticas de organização, tratamento de exceções e integração entre front-end e back-end.
 O projeto demonstra integração prática entre IA generativa e processamento de áudio.
 Tecnologias principais: Python, JavaScript, Whisper e OpenAI API.
+
+https://colab.research.google.com/drive/1LrT0TQ0_K4gg746XwgkpekzpSKmSRQ0x?usp=drive_link
+
